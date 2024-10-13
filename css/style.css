@@ -91,3 +91,33 @@ main{
     border-radius: 15px;
     margin-bottom: 100px;
 }
+
+/* target part started */
+.target-cn{
+    text-align: center;
+}
+h1{
+    font-size: 35px;
+}
+.target-cart-container{
+    display: flex;
+    gap: 15px;
+}
+#cart-1{
+    background-color: #b0c9f9;
+}
+#cart-2{
+    background-color: #fffad7;
+}
+.target-cart{
+    background-color: #ffd2c7;
+    padding: 30px;
+    border-radius: 15px;
+    margin-bottom: 100px;
+}
+
+
+.btn-target{
+    color: black;
+}
+
