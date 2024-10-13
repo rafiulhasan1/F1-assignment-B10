@@ -40,6 +40,10 @@ main{
     font-weight: 600;
     font-size: 16px;
 }
+.btn-header-1{
+    text-decoration: none;
+    color: white;
+}
 
 /* development part started */
 .development{
@@ -149,4 +153,16 @@ h1{
     color: black;
     font-weight: 600;
     font-size: 20px;
+}
+
+/* footer part start */
+.footer-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #fffad7;
+    height: 100px;
+}
+.footer-icon{
+    padding: 0px 10px;
 }
