@@ -1,4 +1,7 @@
-h1{
-    color: antiquewhite;
-    text-align: center;
+/* google font */
+.azeret-mono-font{
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
