@@ -6,12 +6,21 @@
   font-style: normal;
 }
 
+/* main part started */
+main{
+    width: 1145px;
+    background-color: rgb(255, 246, 246);
+    margin: 0px auto;
+    padding: 70px;
+}
+
 /* header part started */
 .header-part{
     background-image: url("../assets/Hero-bg.png");
     text-align: center;
     padding: 150px;
     height: 460px;
+    margin-bottom: 100px;
 }
 
 .header-h{
@@ -32,4 +41,17 @@
     color: white;
     font-weight: 600;
     font-size: 16px;
+}
+
+/* development part started */
+.dp-part{
+    text-align: center;
+}
+
+.dp-container{
+    display: flex;
+    background-color: rgb(224, 241, 255);
+    align-items: center;
+    padding: 40px;
+    border-radius: 10px;
 }
