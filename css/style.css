@@ -126,6 +126,8 @@ h1{
 
 /* help part started */
 .help-container{
+    background-image: url("../assets/handshake.jpg");
+    height: 500px;
     color: white;
     text-align: center;
     padding-top: 150px;
