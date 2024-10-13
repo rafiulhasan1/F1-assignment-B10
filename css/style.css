@@ -75,3 +75,19 @@ main{
     font-weight: 600;
     font-size: 16px;  
 }
+
+/* My Inspiration part started */
+.inspiration{
+    text-align: center;
+}
+
+.yt-video{
+    border-radius: 15px;
+}
+
+.ip-video{
+    padding: 30px;
+    border: 2px solid gray;
+    border-radius: 15px;
+    margin-bottom: 100px;
+}
